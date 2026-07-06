@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2389418</id>
+      <name>ref05</name>
+      <size>5</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-07-01 13:57:19.064240+00:00</created>
+      <updated>2026-07-01 13:58:34.006876+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>4</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4181799</id>
+          <start>0</start>
+          <stop>4</stop>
+          <url>https://app.cvat.ai/api/tasks/2389418/dataset/export/api/jobs/4183735</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>enesgacar</username>
+        <email>enesgacar35@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>target</name>
+          <color>#ff002b</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-07-01 13:58:42.807973+00:00</dumped>
+  </meta>
+  <image id="0" name="Ekran Resmi 2026-07-01 16.25.31.png" width="1230" height="986">
+    <box label="target" source="manual" occluded="0" xtl="12.17" ytl="150.39" xbr="373.09" ybr="847.81" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Ekran Resmi 2026-07-01 16.25.47.png" width="1232" height="984">
+    <box label="target" source="manual" occluded="0" xtl="38.87" ytl="108.76" xbr="443.50" ybr="884.31" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Ekran Resmi 2026-07-01 16.26.04.png" width="1234" height="984">
+    <box label="target" source="manual" occluded="0" xtl="67.53" ytl="61.20" xbr="516.61" ybr="931.83" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Ekran Resmi 2026-07-01 16.26.19.png" width="1234" height="986">
+    <box label="target" source="manual" occluded="0" xtl="58.71" ytl="10.60" xbr="542.50" ybr="973.75" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Ekran Resmi 2026-07-01 16.26.45.png" width="1234" height="984">
+    <box label="target" source="manual" occluded="0" xtl="46.07" ytl="117.96" xbr="439.98" ybr="881.25" z_order="0">
+    </box>
+  </image>
+</annotations>

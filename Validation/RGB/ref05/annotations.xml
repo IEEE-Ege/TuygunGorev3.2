@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2372907</id>
+      <name>ref05_labelled</name>
+      <size>20</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-06-26 17:12:59.141939+00:00</created>
+      <updated>2026-06-26 17:35:30.277252+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>19</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4161844</id>
+          <start>0</start>
+          <stop>19</stop>
+          <url>https://app.cvat.ai/api/tasks/2372907/dataset/export/api/jobs/4163742</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>enesgacar</username>
+        <email>enesgacar35@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>target</name>
+          <color>#ff0029</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-06-26 17:35:53.032287+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_083_01_22.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1183.86" ytl="168.30" xbr="1303.80" ybr="215.00" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_084_01_23.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1131.50" ytl="399.80" xbr="1251.20" ybr="453.40" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_085_01_24.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1114.40" ytl="621.40" xbr="1235.10" ybr="683.50" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_086_01_25.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1115.60" ytl="813.10" xbr="1238.31" ybr="891.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_087_01_26.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1128.60" ytl="989.10" xbr="1252.56" ybr="1078.94" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_222_03_41.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="0.17" ytl="265.40" xbr="83.80" ybr="363.20" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_223_03_42.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="124.40" ytl="131.40" xbr="225.08" ybr="222.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame_224_03_43.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="265.20" ytl="100.90" xbr="367.51" ybr="176.60" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_225_03_44.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="341.90" ytl="172.77" xbr="442.16" ybr="240.70" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame_226_03_45.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="503.50" ytl="152.00" xbr="601.30" ybr="194.32" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame_227_03_46.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="553.98" ytl="265.61" xbr="651.79" ybr="308.71" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame_228_03_47.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="572.58" ytl="427.16" xbr="666.30" ybr="465.70" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame_229_03_48.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="583.80" ytl="590.10" xbr="676.85" ybr="630.10" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame_230_03_49.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="591.85" ytl="749.10" xbr="684.90" ybr="794.80" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="frame_231_03_50.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="597.46" ytl="889.82" xbr="689.27" ybr="942.15" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_232_03_51.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="595.30" ytl="1025.70" xbr="688.45" ybr="1080.00" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_254_04_13.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1358.70" ytl="122.10" xbr="1539.20" ybr="223.62" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame_255_04_14.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1349.70" ytl="360.90" xbr="1530.00" ybr="445.50" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame_256_04_15.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1351.50" ytl="550.20" xbr="1530.70" ybr="622.70" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_257_04_16.jpg" width="1920" height="1080">
+    <box label="target" source="manual" occluded="0" xtl="1355.90" ytl="610.50" xbr="1536.80" ybr="685.88" z_order="0">
+    </box>
+  </image>
+</annotations>

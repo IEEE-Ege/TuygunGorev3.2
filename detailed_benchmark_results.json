@@ -1,0 +1,2302 @@
+[
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_024_00_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            208.63,
+            0.22,
+            463.88,
+            95.75
+        ],
+        "predicted_box": [
+            183.85135135135135,
+            -3.9344336501045376,
+            438.85135135135135,
+            91.50200121767212
+        ],
+        "iou": 0.7585226562095118,
+        "reason": null,
+        "processing_time_ms": 934.2822999460623
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_025_00_24.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            201.86,
+            173.2,
+            455.44,
+            311.84
+        ],
+        "predicted_box": [
+            131.51351351351352,
+            195.33893956640284,
+            335.51351351351354,
+            271.68808746062416
+        ],
+        "iou": 0.2517895499576103,
+        "reason": null,
+        "processing_time_ms": 1012.9823999013752
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_027_00_26.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            185.5,
+            659.23,
+            452.87,
+            827.1
+        ],
+        "predicted_box": [
+            131.95945945945948,
+            725.7952960796252,
+            386.9594594594595,
+            821.231730947402
+        ],
+        "iou": 0.3845843688172617,
+        "reason": null,
+        "processing_time_ms": 755.3401999175549
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_028_00_27.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            291.58,
+            939.83,
+            534.62,
+            1080.0
+        ],
+        "predicted_box": [
+            183.40540540540542,
+            20.203804431267713,
+            387.4054054054054,
+            96.55295232548904
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 796.5035999659449
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_070_01_09.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1440.49,
+            0.82,
+            1763.06,
+            212.92
+        ],
+        "predicted_box": [
+            494.7567567567568,
+            -8.985384757921477,
+            698.7567567567568,
+            67.36376313629985
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 557.5025000143796
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_071_01_10.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1387.46,
+            78.15,
+            1723.3,
+            343.3
+        ],
+        "predicted_box": [
+            235.74324324324328,
+            -3.9344336501045376,
+            490.7432432432433,
+            91.50200121767212
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 472.5657000672072
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_078_01_17.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1402.92,
+            513.4,
+            1741.0,
+            785.2
+        ],
+        "predicted_box": [
+            391.41891891891896,
+            -3.9344336501045376,
+            646.418918918919,
+            91.50200121767212
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 425.2579999156296
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_081_01_20.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1453.7,
+            672.5,
+            1714.46,
+            997.3
+        ],
+        "predicted_box": [
+            -24.16216216216216,
+            107.77137199883529,
+            179.83783783783784,
+            184.1205198930566
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 2113.1034999853
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_082_01_21.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1475.84,
+            833.8,
+            1747.6,
+            1080.0
+        ],
+        "predicted_box": [
+            -23.71621621621621,
+            142.0115122958414,
+            231.2837837837838,
+            237.44794716361807
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 637.831800035201
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_083_01_22.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1546.54,
+            1023.8,
+            1771.9,
+            1080.0
+        ],
+        "predicted_box": [
+            547.0945945945946,
+            -3.9344336501045376,
+            802.0945945945946,
+            91.50200121767212
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1775.4294000333175
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_217_03_36.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            333.56,
+            0.0,
+            660.6,
+            93.6
+        ],
+        "predicted_box": [
+            235.2972972972973,
+            -8.985384757921477,
+            439.2972972972973,
+            67.36376313629985
+        ],
+        "iou": 0.18234150226814141,
+        "reason": null,
+        "processing_time_ms": 733.5912000853568
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_218_03_37.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            426.35,
+            3.03,
+            733.47,
+            170.9
+        ],
+        "predicted_box": [
+            339.52702702702703,
+            25.254755539084655,
+            594.5270270270271,
+            120.69119040686131
+        ],
+        "iou": 0.2682084973935969,
+        "reason": null,
+        "processing_time_ms": 653.6407000385225
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_219_03_38.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            510.31,
+            33.96,
+            817.42,
+            246.06
+        ],
+        "predicted_box": [
+            443.31081081081084,
+            112.82232310665222,
+            698.3108108108108,
+            208.25875797442887
+        ],
+        "iou": 0.25082590010589384,
+        "reason": null,
+        "processing_time_ms": 570.0995000079274
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_221_03_40.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            698.1,
+            228.4,
+            980.92,
+            398.52
+        ],
+        "predicted_box": [
+            650.8783783783784,
+            229.57907986340896,
+            905.8783783783784,
+            325.0155147311856
+        ],
+        "iou": 0.37684582033382874,
+        "reason": null,
+        "processing_time_ms": 410.10340000502765
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_224_03_43.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            916.8,
+            506.78,
+            1102.44,
+            752.02
+        ],
+        "predicted_box": [
+            858.0,
+            574.7983990258623,
+            1062.0,
+            651.1475469200836
+        ],
+        "iou": 0.22164840104779507,
+        "reason": null,
+        "processing_time_ms": 615.1615999406204
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_226_03_45.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            817.4,
+            783.0,
+            956.6,
+            1023.79
+        ],
+        "predicted_box": [
+            28.175675675675677,
+            -3.9344336501045376,
+            283.1756756756757,
+            91.50200121767212
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 933.3450999110937
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_227_03_46.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            802.0,
+            924.36,
+            938.9,
+            1080.0
+        ],
+        "predicted_box": [
+            80.06756756756758,
+            -3.9344336501045376,
+            335.0675675675676,
+            91.50200121767212
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 687.9721999866888
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_262_04_21.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            375.6,
+            0.82,
+            616.37,
+            217.3
+        ],
+        "predicted_box": [
+            339.52702702702703,
+            -3.9344336501045376,
+            594.5270270270271,
+            91.50200121767212
+        ],
+        "iou": 0.3507214339438198,
+        "reason": null,
+        "processing_time_ms": 456.93899993784726
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_264_04_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            393.2,
+            175.36,
+            616.37,
+            559.8
+        ],
+        "predicted_box": [
+            287.63513513513516,
+            171.2007014850306,
+            542.6351351351352,
+            266.63713635280726
+        ],
+        "iou": 0.14135934493405836,
+        "reason": null,
+        "processing_time_ms": 1021.4706000406295
+    },
+    {
+        "reference_set": "ref01",
+        "image_name": "frame_267_04_26.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            479.4,
+            634.9,
+            667.2,
+            968.6
+        ],
+        "predicted_box": [
+            390.97297297297297,
+            633.1767774042407,
+            594.9729729729729,
+            709.5259252984621
+        ],
+        "iou": 0.12388424379032414,
+        "reason": null,
+        "processing_time_ms": 633.9577999897301
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_081_01_20.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            943.4,
+            0.0,
+            1723.3,
+            787.4
+        ],
+        "predicted_box": [
+            1037.6891891891892,
+            50.369288508921784,
+            1660.6891891891892,
+            679.3604412208078
+        ],
+        "iou": 0.6381139700825003,
+        "reason": null,
+        "processing_time_ms": 945.4385000281036
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_082_01_21.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            936.73,
+            0.0,
+            1628.3,
+            959.7
+        ],
+        "predicted_box": [
+            1037.6891891891892,
+            254.6936128332461,
+            1660.6891891891892,
+            883.6847655451322
+        ],
+        "iou": 0.5430551799164254,
+        "reason": null,
+        "processing_time_ms": 894.464600016363
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_083_01_22 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            958.83,
+            162.1,
+            1509.0,
+            1080.0
+        ],
+        "predicted_box": [
+            1037.6891891891892,
+            196.31523445486778,
+            1660.6891891891892,
+            825.3063871667539
+        ],
+        "iou": 0.4937446802421132,
+        "reason": null,
+        "processing_time_ms": 994.0646999748424
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_217_03_36.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            98.0,
+            883.7,
+            1032.62
+        ],
+        "predicted_box": [
+            259.31081081081084,
+            79.558477698111,
+            882.3108108108108,
+            708.5496304099971
+        ],
+        "iou": 0.45422333743515286,
+        "reason": null,
+        "processing_time_ms": 1245.153299998492
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_218_03_37.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            184.2,
+            919.1,
+            1061.3
+        ],
+        "predicted_box": [
+            363.0945945945946,
+            167.12604526567856,
+            986.0945945945946,
+            796.1171979775647
+        ],
+        "iou": 0.39664170417464234,
+        "reason": null,
+        "processing_time_ms": 769.6622000075877
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_219_03_38.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            270.4,
+            923.5,
+            1052.51
+        ],
+        "predicted_box": [
+            363.0945945945946,
+            225.50442364405694,
+            986.0945945945946,
+            854.4955763559431
+        ],
+        "iou": 0.4160221911772554,
+        "reason": null,
+        "processing_time_ms": 703.1538999872282
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_220_03_39.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            354.3,
+            905.8,
+            1012.7
+        ],
+        "predicted_box": [
+            363.0945945945946,
+            283.88280202243527,
+            986.0945945945946,
+            912.8739547343214
+        ],
+        "iou": 0.4424777422215816,
+        "reason": null,
+        "processing_time_ms": 870.9566000616178
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_221_03_40.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            307.9,
+            841.7,
+            878.0
+        ],
+        "predicted_box": [
+            207.41891891891896,
+            225.50442364405694,
+            830.418918918919,
+            854.4955763559431
+        ],
+        "iou": 0.6410735438799667,
+        "reason": null,
+        "processing_time_ms": 1689.1156000783667
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_222_03_41 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            0.0,
+            95.8,
+            888.1,
+            906.69
+        ],
+        "predicted_box": [
+            207.41891891891896,
+            79.558477698111,
+            830.418918918919,
+            708.5496304099971
+        ],
+        "iou": 0.5227423882081167,
+        "reason": null,
+        "processing_time_ms": 767.350299982354
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_223_03_42 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            22.03,
+            0.0,
+            910.2,
+            913.3
+        ],
+        "predicted_box": [
+            259.31081081081084,
+            108.74766688730017,
+            882.3108108108108,
+            737.7388195991863
+        ],
+        "iou": 0.4830844141706154,
+        "reason": null,
+        "processing_time_ms": 759.421500028111
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_224_03_43 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            134.71,
+            9.65,
+            905.8,
+            917.7
+        ],
+        "predicted_box": [
+            259.31081081081084,
+            108.74766688730017,
+            882.3108108108108,
+            737.7388195991863
+        ],
+        "iou": 0.5596516000204815,
+        "reason": null,
+        "processing_time_ms": 918.099100003019
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_225_03_44 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            203.2,
+            95.82,
+            899.2,
+            988.43
+        ],
+        "predicted_box": [
+            311.2027027027027,
+            225.50442364405694,
+            934.2027027027027,
+            854.4955763559431
+        ],
+        "iou": 0.5749427169818684,
+        "reason": null,
+        "processing_time_ms": 675.9151999140158
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_226_03_45 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            346.8,
+            137.8,
+            795.3,
+            946.5
+        ],
+        "predicted_box": [
+            414.98648648648657,
+            137.9368560764894,
+            1037.9864864864867,
+            766.9280087883756
+        ],
+        "iou": 0.46417778129384735,
+        "reason": null,
+        "processing_time_ms": 645.1473000925034
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_227_03_46 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            384.4,
+            263.7,
+            821.8,
+            1037.04
+        ],
+        "predicted_box": [
+            466.87837837837844,
+            225.50442364405694,
+            1089.8783783783783,
+            854.4955763559431
+        ],
+        "iou": 0.40290605752141817,
+        "reason": null,
+        "processing_time_ms": 687.8722000401467
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_228_03_47 (1).jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            386.6,
+            418.4,
+            837.3,
+            1079.02
+        ],
+        "predicted_box": [
+            466.87837837837844,
+            371.4503695900029,
+            1089.8783783783783,
+            1000.441522301889
+        ],
+        "iou": 0.45485186319624676,
+        "reason": null,
+        "processing_time_ms": 669.0827000420541
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_260_04_19.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            698.1,
+            0.0,
+            1705.62,
+            1006.11
+        ],
+        "predicted_box": [
+            1089.581081081081,
+            137.9368560764894,
+            1712.581081081081,
+            766.9280087883756
+        ],
+        "iou": 0.38061131859918845,
+        "reason": null,
+        "processing_time_ms": 799.6825999580324
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_261_04_20.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            704.74,
+            0.0,
+            1643.8,
+            1080.0
+        ],
+        "predicted_box": [
+            1037.6891891891892,
+            50.369288508921784,
+            1660.6891891891892,
+            679.3604412208078
+        ],
+        "iou": 0.37200954320131185,
+        "reason": null,
+        "processing_time_ms": 583.2467000000179
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_262_04_21.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            667.18,
+            0.0,
+            1595.15,
+            1080.0
+        ],
+        "predicted_box": [
+            1037.6891891891892,
+            108.74766688730017,
+            1660.6891891891892,
+            737.7388195991863
+        ],
+        "iou": 0.33604316989227184,
+        "reason": null,
+        "processing_time_ms": 655.7393999537453
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_263_04_22.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            682.6,
+            45.0,
+            1568.6,
+            1080.0
+        ],
+        "predicted_box": [
+            985.7972972972973,
+            196.31523445486778,
+            1608.7972972972973,
+            825.3063871667539
+        ],
+        "iou": 0.3890270374493607,
+        "reason": null,
+        "processing_time_ms": 1478.4810999408364
+    },
+    {
+        "reference_set": "ref02",
+        "image_name": "frame_264_04_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            689.3,
+            215.1,
+            1539.9,
+            1080.0
+        ],
+        "predicted_box": [
+            985.7972972972973,
+            400.63955877919204,
+            1608.7972972972973,
+            1029.6307114910783
+        ],
+        "iou": 0.4473900776483746,
+        "reason": null,
+        "processing_time_ms": 1161.1862999852747
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_024_00_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            327.6,
+            292.67,
+            394.85,
+            381.62
+        ],
+        "predicted_box": [
+            310.7972972972973,
+            344.4085300914297,
+            363.7972972972973,
+            414.51038882748924
+        ],
+        "iou": 0.1613055313428976,
+        "reason": null,
+        "processing_time_ms": 666.785900015384
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_026_00_25.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            351.46,
+            766.92,
+            433.9,
+            860.43
+        ],
+        "predicted_box": [
+            310.7972972972973,
+            782.2463679292675,
+            363.7972972972973,
+            852.348226665327
+        ],
+        "iou": 0.0819042422223243,
+        "reason": null,
+        "processing_time_ms": 677.6412000181153
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_027_00_26.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            416.33,
+            988.21,
+            503.33,
+            1079.55
+        ],
+        "predicted_box": [
+            466.47297297297297,
+            1015.7598814427811,
+            519.4729729729729,
+            1085.8617401788406
+        ],
+        "iou": 0.25251298111751785,
+        "reason": null,
+        "processing_time_ms": 677.8041000943631
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_076_01_15.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1366.79,
+            174.87,
+            1470.92,
+            309.38
+        ],
+        "predicted_box": [
+            1445.418918918919,
+            232.98763186978798,
+            1512.418918918919,
+            321.60696272480664
+        ],
+        "iou": 0.10825156551921962,
+        "reason": null,
+        "processing_time_ms": 669.3550000200048
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_077_01_16.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1292.81,
+            218.04,
+            1418.85,
+            328.9
+        ],
+        "predicted_box": [
+            1296.7432432432431,
+            256.8409625238622,
+            1349.7432432432431,
+            326.9428212599217
+        ],
+        "iou": 0.26590232466393093,
+        "reason": null,
+        "processing_time_ms": 634.9814001005143
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_078_01_17.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1238.79,
+            272.49,
+            1366.79,
+            380.97
+        ],
+        "predicted_box": [
+            1244.8513513513515,
+            315.21934090224056,
+            1297.8513513513515,
+            385.3211996383001
+        ],
+        "iou": 0.24686679688675253,
+        "reason": null,
+        "processing_time_ms": 600.8130999980494
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_079_01_18.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1199.73,
+            350.6,
+            1332.07,
+            452.56
+        ],
+        "predicted_box": [
+            1244.8513513513515,
+            431.9760976589973,
+            1297.8513513513515,
+            502.0779563950568
+        ],
+        "iou": 0.06768567955908947,
+        "reason": null,
+        "processing_time_ms": 601.576599990949
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_081_01_20.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1145.5,
+            658.66,
+            1284.35,
+            734.6
+        ],
+        "predicted_box": [
+            1192.9594594594594,
+            665.4896111725109,
+            1245.9594594594594,
+            735.5914699085704
+        ],
+        "iou": 0.3456557417799052,
+        "reason": null,
+        "processing_time_ms": 706.0952999163419
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_082_01_21.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1154.18,
+            877.78,
+            1277.84,
+            938.53
+        ],
+        "predicted_box": [
+            1192.9594594594594,
+            899.0031246860243,
+            1245.9594594594594,
+            969.1049834220838
+        ],
+        "iou": 0.2293841982196571,
+        "reason": null,
+        "processing_time_ms": 669.7432999499142
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_216_03_35.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            577.09,
+            109.78,
+            698.58,
+            218.26
+        ],
+        "predicted_box": [
+            570.2567567567568,
+            140.0842057671054,
+            623.2567567567568,
+            210.1860645031649
+        ],
+        "iou": 0.23695374627000246,
+        "reason": null,
+        "processing_time_ms": 665.7867999747396
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_217_03_36.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            637.84,
+            259.48,
+            763.67,
+            350.6
+        ],
+        "predicted_box": [
+            674.0405405405405,
+            315.21934090224056,
+            727.0405405405405,
+            385.3211996383001
+        ],
+        "iou": 0.1409285753192337,
+        "reason": null,
+        "processing_time_ms": 665.8612000755966
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_219_03_38.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            737.63,
+            452.56,
+            852.62,
+            552.36
+        ],
+        "predicted_box": [
+            777.8243243243243,
+            519.5436652265648,
+            830.8243243243243,
+            589.6455239626243
+        ],
+        "iou": 0.12929291690329955,
+        "reason": null,
+        "processing_time_ms": 972.7412000065669
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_223_03_42.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            689.9,
+            682.31,
+            785.36,
+            782.32
+        ],
+        "predicted_box": [
+            725.9324324324324,
+            723.8679895508892,
+            778.9324324324324,
+            793.9698482869487
+        ],
+        "iou": 0.3047850933163685,
+        "reason": null,
+        "processing_time_ms": 776.3282000087202
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_225_03_44.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            653.02,
+            834.39,
+            763.67,
+            899.48
+        ],
+        "predicted_box": [
+            725.9324324324324,
+            840.624746307646,
+            778.9324324324324,
+            910.7266050437055
+        ],
+        "iou": 0.2553947682993631,
+        "reason": null,
+        "processing_time_ms": 948.4162000007927
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_227_03_46.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            525.02,
+            988.43,
+            624.82,
+            1029.65
+        ],
+        "predicted_box": [
+            615.1486486486486,
+            262.1768210589771,
+            682.1486486486486,
+            350.79615191399574
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 734.4307999592274
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_264_04_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            926.38,
+            281.17,
+            1089.09,
+            361.44
+        ],
+        "predicted_box": [
+            978.3918918918918,
+            291.3660102481664,
+            1045.3918918918916,
+            379.985341103185
+        ],
+        "iou": 0.32824364357226976,
+        "reason": null,
+        "processing_time_ms": 631.6554999211803
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_266_04_25.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            932.89,
+            582.73,
+            1054.38,
+            660.83
+        ],
+        "predicted_box": [
+            1037.2837837837837,
+            607.1112327941324,
+            1090.2837837837837,
+            677.213091530192
+        ],
+        "iou": 0.07475451878044745,
+        "reason": null,
+        "processing_time_ms": 652.5245000375435
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_267_04_26.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            937.23,
+            704.01,
+            1052.21,
+            782.32
+        ],
+        "predicted_box": [
+            985.3918918918918,
+            694.6788003616999,
+            1038.3918918918916,
+            764.7806590977594
+        ],
+        "iou": 0.3390849448239316,
+        "reason": null,
+        "processing_time_ms": 1678.225600044243
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_271_04_30.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            952.41,
+            949.38,
+            1054.38,
+            1020.97
+        ],
+        "predicted_box": [
+            985.3918918918918,
+            928.1923138752135,
+            1038.3918918918916,
+            998.294172611273
+        ],
+        "iou": 0.30778314226363035,
+        "reason": null,
+        "processing_time_ms": 903.1967999180779
+    },
+    {
+        "reference_set": "ref03",
+        "image_name": "frame_272_04_31.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            954.58,
+            942.87,
+            1060.89,
+            1016.63
+        ],
+        "predicted_box": [
+            985.3918918918918,
+            928.1923138752135,
+            1038.3918918918916,
+            998.294172611273
+        ],
+        "iou": 0.34080105182693793,
+        "reason": null,
+        "processing_time_ms": 662.4835999682546
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_024_00_23.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            208.63,
+            0.22,
+            463.88,
+            95.75
+        ],
+        "predicted_box": [
+            27.72972972972974,
+            20.789230484157024,
+            231.72972972972974,
+            95.96752627259974
+        ],
+        "iou": 0.04558112097075666,
+        "reason": null,
+        "processing_time_ms": 3448.363000061363
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_025_00_24.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            201.86,
+            173.2,
+            455.44,
+            311.84
+        ],
+        "predicted_box": [
+            27.72972972972974,
+            166.73517643010297,
+            231.72972972972974,
+            241.91347221854568
+        ],
+        "iou": 0.042370813825935036,
+        "reason": null,
+        "processing_time_ms": 1747.692000004463
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_027_00_26.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            185.5,
+            659.23,
+            452.87,
+            827.1
+        ],
+        "predicted_box": [
+            547.0945945945946,
+            171.93248405114224,
+            802.0945945945946,
+            265.9053537866956
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1290.9394999733195
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_028_00_27.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            291.58,
+            939.83,
+            534.62,
+            1080.0
+        ],
+        "predicted_box": [
+            494.7567567567568,
+            -8.399958705032166,
+            698.7567567567568,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1403.267899993807
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_070_01_09.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1440.49,
+            0.82,
+            1763.06,
+            212.92
+        ],
+        "predicted_box": [
+            287.1891891891892,
+            79.1676088625354,
+            491.1891891891892,
+            154.34590465097813
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1214.7427001036704
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_071_01_10.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1387.46,
+            78.15,
+            1723.3,
+            343.3
+        ],
+        "predicted_box": [
+            287.1891891891892,
+            312.68112237604896,
+            491.1891891891892,
+            387.8594181644917
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1231.918300036341
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_078_01_17.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1402.92,
+            513.4,
+            1741.0,
+            785.2
+        ],
+        "predicted_box": [
+            27.72972972972974,
+            -8.399958705032166,
+            231.72972972972974,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1123.7513999221846
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_081_01_20.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1453.7,
+            672.5,
+            1714.46,
+            997.3
+        ],
+        "predicted_box": [
+            -24.16216216216216,
+            108.35679805172461,
+            179.83783783783784,
+            183.53509384016732
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 952.1968000335619
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_082_01_21.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1475.84,
+            833.8,
+            1747.6,
+            1080.0
+        ],
+        "predicted_box": [
+            390.97297297297297,
+            137.5459872409138,
+            594.9729729729729,
+            212.7242830293565
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1657.5483999913558
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_083_01_22.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1546.54,
+            1023.8,
+            1771.9,
+            1080.0
+        ],
+        "predicted_box": [
+            287.1891891891892,
+            137.5459872409138,
+            491.1891891891892,
+            212.7242830293565
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 743.2159000309184
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_217_03_36.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            333.56,
+            0.0,
+            660.6,
+            93.6
+        ],
+        "predicted_box": [
+            235.2972972972973,
+            166.73517643010297,
+            439.2972972972973,
+            241.91347221854568
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 803.1318999128416
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_218_03_37.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            426.35,
+            3.03,
+            733.47,
+            170.9
+        ],
+        "predicted_box": [
+            235.2972972972973,
+            108.35679805172461,
+            439.2972972972973,
+            183.53509384016732
+        ],
+        "iou": 0.012253792565224342,
+        "reason": null,
+        "processing_time_ms": 784.5585000468418
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_219_03_38.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            510.31,
+            33.96,
+            817.42,
+            246.06
+        ],
+        "predicted_box": [
+            287.1891891891892,
+            108.35679805172461,
+            491.1891891891892,
+            183.53509384016732
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 734.1813000384718
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_221_03_40.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            698.1,
+            228.4,
+            980.92,
+            398.52
+        ],
+        "predicted_box": [
+            235.2972972972973,
+            -8.399958705032166,
+            439.2972972972973,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1026.5650999499485
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_224_03_43.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            916.8,
+            506.78,
+            1102.44,
+            752.02
+        ],
+        "predicted_box": [
+            183.40540540540542,
+            -8.399958705032166,
+            387.4054054054054,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1508.90320003964
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_226_03_45.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            817.4,
+            783.0,
+            956.6,
+            1023.79
+        ],
+        "predicted_box": [
+            494.7567567567568,
+            20.789230484157024,
+            698.7567567567568,
+            95.96752627259974
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 2640.0681000668555
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_227_03_46.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            802.0,
+            924.36,
+            938.9,
+            1080.0
+        ],
+        "predicted_box": [
+            494.7567567567568,
+            -8.399958705032166,
+            698.7567567567568,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 883.3443999756128
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_262_04_21.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            375.6,
+            0.82,
+            616.37,
+            217.3
+        ],
+        "predicted_box": [
+            287.1891891891892,
+            137.5459872409138,
+            491.1891891891892,
+            212.7242830293565
+        ],
+        "iou": 0.14786498931188888,
+        "reason": null,
+        "processing_time_ms": 686.7497999919578
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_264_04_23.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            393.2,
+            175.36,
+            616.37,
+            559.8
+        ],
+        "predicted_box": [
+            235.2972972972973,
+            137.5459872409138,
+            439.2972972972973,
+            212.7242830293565
+        ],
+        "iou": 0.017326243954241597,
+        "reason": null,
+        "processing_time_ms": 911.3805999513716
+    },
+    {
+        "reference_set": "ref04",
+        "image_name": "frame_267_04_26.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            479.4,
+            634.9,
+            667.2,
+            968.6
+        ],
+        "predicted_box": [
+            494.7567567567568,
+            -8.399958705032166,
+            698.7567567567568,
+            66.77833708341055
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 750.4195999354124
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_083_01_22.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1183.86,
+            168.3,
+            1303.8,
+            215.0
+        ],
+        "predicted_box": [
+            1223.8513513513515,
+            142.04587654187455,
+            1318.8513513513515,
+            179.03520453920652
+        ],
+        "iou": 0.1039449568582928,
+        "reason": null,
+        "processing_time_ms": 1152.4784000357613
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_084_01_23.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1131.5,
+            399.8,
+            1251.2,
+            453.4
+        ],
+        "predicted_box": [
+            1120.0675675675675,
+            433.93776843376645,
+            1215.0675675675675,
+            470.92709643109845
+        ],
+        "iou": 0.19587070130968048,
+        "reason": null,
+        "processing_time_ms": 778.8075000280514
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_085_01_24.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1114.4,
+            621.4,
+            1235.1,
+            683.5
+        ],
+        "predicted_box": [
+            1171.9594594594594,
+            638.2620927580908,
+            1266.9594594594594,
+            675.2514207554228
+        ],
+        "iou": 0.26925812925900566,
+        "reason": null,
+        "processing_time_ms": 783.4255000343546
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_086_01_25.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1115.6,
+            813.1,
+            1238.31,
+            891.4
+        ],
+        "predicted_box": [
+            1120.0675675675675,
+            813.3972278932259,
+            1215.0675675675675,
+            850.3865558905579
+        ],
+        "iou": 0.3657280988991936,
+        "reason": null,
+        "processing_time_ms": 896.7499999562278
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_087_01_26.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1128.6,
+            989.1,
+            1252.56,
+            1078.94
+        ],
+        "predicted_box": [
+            1120.0675675675675,
+            988.5323630283611,
+            1215.0675675675675,
+            1025.5216910256931
+        ],
+        "iou": 0.27382179917794475,
+        "reason": null,
+        "processing_time_ms": 754.4793999986723
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_222_03_41.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            0.17,
+            265.4,
+            83.8,
+            363.2
+        ],
+        "predicted_box": [
+            704.9324324324324,
+            638.2620927580908,
+            799.9324324324324,
+            675.2514207554228
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1425.547800026834
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_223_03_42.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            124.4,
+            131.4,
+            225.08,
+            222.4
+        ],
+        "predicted_box": [
+            653.0405405405405,
+            725.8296603256583,
+            748.0405405405405,
+            762.8189883229903
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1142.4578999867663
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_224_03_43.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            265.2,
+            100.9,
+            367.51,
+            176.6
+        ],
+        "predicted_box": [
+            653.0405405405405,
+            755.0188495148476,
+            748.0405405405405,
+            792.0081775121796
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1659.4920998904854
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_225_03_44.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            341.9,
+            172.77,
+            442.16,
+            240.7
+        ],
+        "predicted_box": [
+            341.6891891891892,
+            171.23506573106374,
+            436.6891891891892,
+            208.2243937283957
+        ],
+        "iou": 0.48258401546267143,
+        "reason": null,
+        "processing_time_ms": 968.3069000020623
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_226_03_45.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            503.5,
+            152.0,
+            601.3,
+            194.32
+        ],
+        "predicted_box": [
+            497.3648648648648,
+            142.04587654187455,
+            592.3648648648648,
+            179.03520453920652
+        ],
+        "iou": 0.45758013051744834,
+        "reason": null,
+        "processing_time_ms": 951.3687000144273
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_227_03_46.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            553.98,
+            265.61,
+            651.79,
+            308.71
+        ],
+        "predicted_box": [
+            549.2567567567568,
+            258.8026332986313,
+            644.2567567567568,
+            295.7919612959633
+        ],
+        "iou": 0.5444159179135214,
+        "reason": null,
+        "processing_time_ms": 398.29120005015284
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_228_03_47.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            572.58,
+            427.16,
+            666.3,
+            465.7
+        ],
+        "predicted_box": [
+            549.2567567567568,
+            404.74857924457723,
+            644.2567567567568,
+            441.7379072419092
+        ],
+        "iou": 0.17182818145450682,
+        "reason": null,
+        "processing_time_ms": 583.7281999411061
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_229_03_48.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            583.8,
+            590.1,
+            676.85,
+            630.1
+        ],
+        "predicted_box": [
+            601.1486486486486,
+            609.0729035689016,
+            696.1486486486486,
+            646.0622315662335
+        ],
+        "iou": 0.2820200859344491,
+        "reason": null,
+        "processing_time_ms": 645.4713999992236
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_230_03_49.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            591.85,
+            749.1,
+            684.9,
+            794.8
+        ],
+        "predicted_box": [
+            601.1486486486486,
+            784.2080387040368,
+            696.1486486486486,
+            821.1973667013688
+        ],
+        "iou": 0.1289511490567138,
+        "reason": null,
+        "processing_time_ms": 3289.6698999684304
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_231_03_50.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            597.46,
+            889.82,
+            689.27,
+            942.15
+        ],
+        "predicted_box": [
+            601.1486486486486,
+            871.7756062716044,
+            696.1486486486486,
+            908.7649342689364
+        ],
+        "iou": 0.2510852309150749,
+        "reason": null,
+        "processing_time_ms": 1069.6757999248803
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_232_03_51.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            595.3,
+            1025.7,
+            688.45,
+            1080.0
+        ],
+        "predicted_box": [
+            1549.1486486486485,
+            108.18435118460133,
+            1668.1486486486485,
+            154.51835151810138
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 915.1497998973355
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_254_04_13.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1358.7,
+            122.1,
+            1539.2,
+            223.62
+        ],
+        "predicted_box": [
+            1379.5270270270269,
+            112.85668735268537,
+            1474.5270270270269,
+            149.84601535001735
+        ],
+        "iou": 0.13726727930783053,
+        "reason": null,
+        "processing_time_ms": 675.852800020948
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_255_04_14.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1349.7,
+            360.9,
+            1530.0,
+            445.5
+        ],
+        "predicted_box": [
+            1379.5270270270269,
+            346.37020086619884,
+            1474.5270270270269,
+            383.35952886353084
+        ],
+        "iou": 0.1282729543991038,
+        "reason": null,
+        "processing_time_ms": 769.37250001356
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_256_04_15.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            1351.5,
+            550.2,
+            1530.7,
+            622.7
+        ],
+        "predicted_box": [
+            1483.3108108108108,
+            550.6945251905232,
+            1578.3108108108108,
+            587.6838531878552
+        ],
+        "iou": 0.11881538288033984,
+        "reason": null,
+        "processing_time_ms": 1222.8877999586985
+    },
+    {
+        "reference_set": "ref05",
+        "image_name": "frame_257_04_16.jpg",
+        "classification": "TP",
+        "ground_truth_box": [
+            1355.9,
+            610.5,
+            1536.8,
+            685.88
+        ],
+        "predicted_box": [
+            1379.5270270270269,
+            609.0729035689016,
+            1474.5270270270269,
+            646.0622315662335
+        ],
+        "iou": 0.24531346913928556,
+        "reason": null,
+        "processing_time_ms": 826.9298999803141
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_083_01_22.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            618.24,
+            0.0,
+            812.4,
+            115.51
+        ],
+        "predicted_box": [
+            603.5405405405405,
+            774.1844856290159,
+            797.5405405405405,
+            889.5992981547678
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 2303.8531000493094
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_084_01_23.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            542.82,
+            16.17,
+            760.68,
+            389.18
+        ],
+        "predicted_box": [
+            648.9864864864866,
+            844.1638374313745,
+            803.9864864864866,
+            936.3767031091661
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1463.9429999515414
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_085_01_24.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            525.58,
+            272.6,
+            734.82,
+            613.29
+        ],
+        "predicted_box": [
+            551.6486486486486,
+            803.373674818205,
+            745.6486486486486,
+            918.788487343957
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 869.0019999630749
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_086_01_25.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            473.86,
+            507.48,
+            752.06,
+            848.17
+        ],
+        "predicted_box": [
+            441.41891891891896,
+            902.5422158097529,
+            596.418918918919,
+            994.7550814875444
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 790.6367999967188
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_087_01_26.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            504.25,
+            705.95,
+            784.38,
+            1063.66
+        ],
+        "predicted_box": [
+            395.97297297297297,
+            949.3196207641511,
+            589.9729729729729,
+            1064.734433289903
+        ],
+        "iou": 0.08689807712330648,
+        "reason": null,
+        "processing_time_ms": 1455.9520999900997
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_088_01_27.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            536.57,
+            878.34,
+            771.45,
+            1080.0
+        ],
+        "predicted_box": [
+            545.2027027027027,
+            727.4070806746178,
+            700.2027027027027,
+            819.6199463524092
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1163.1688999477774
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_225_03_44.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            0.0,
+            119.6,
+            103.44,
+            315.91
+        ],
+        "predicted_box": [
+            648.9864864864866,
+            873.3530266205636,
+            803.9864864864866,
+            965.565892298355
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 1141.9714000076056
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_226_03_45.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            98.92,
+            0.0,
+            237.04,
+            137.06
+        ],
+        "predicted_box": [
+            603.5405405405405,
+            920.1304315749618,
+            797.5405405405405,
+            1035.5452441007137
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 814.6173999411985
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_227_03_46.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            159.25,
+            0.0,
+            306.0,
+            218.94
+        ],
+        "predicted_box": [
+            603.5405405405405,
+            978.5088099533402,
+            797.5405405405405,
+            1093.9236224790923
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 793.6300999717787
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_228_03_47.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            170.24,
+            104.73,
+            355.56,
+            391.33
+        ],
+        "predicted_box": [
+            908.4459459459459,
+            756.5962698638069,
+            1063.4459459459458,
+            848.8091355415984
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 2768.971599987708
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_229_03_48.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            180.8,
+            272.6,
+            342.63,
+            557.26
+        ],
+        "predicted_box": [
+            285.7432432432433,
+            814.9746482421853,
+            440.7432432432433,
+            907.1875139199767
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 736.0943000530824
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_230_03_49.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            206.66,
+            444.99,
+            349.1,
+            708.1
+        ],
+        "predicted_box": [
+            285.7432432432433,
+            960.9205941881313,
+            440.7432432432433,
+            1053.1334598659228
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 763.2895999122411
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_231_03_50.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            165.72,
+            591.52,
+            364.18,
+            858.94
+        ],
+        "predicted_box": [
+            655.4324324324324,
+            744.9952964398267,
+            849.4324324324324,
+            860.4101089655786
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 687.2730000177398
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_232_03_51.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            174.55,
+            718.87,
+            357.72,
+            994.7
+        ],
+        "predicted_box": [
+            389.52702702702703,
+            873.3530266205636,
+            544.5270270270271,
+            965.565892298355
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 768.7108999816701
+    },
+    {
+        "reference_set": "ref06",
+        "image_name": "frame_233_03_52.jpg",
+        "classification": "FP",
+        "ground_truth_box": [
+            163.78,
+            850.32,
+            316.77,
+            1080.0
+        ],
+        "predicted_box": [
+            499.7567567567568,
+            774.1844856290159,
+            693.7567567567568,
+            889.5992981547678
+        ],
+        "iou": 0.0,
+        "reason": null,
+        "processing_time_ms": 790.9992999630049
+    }
+]

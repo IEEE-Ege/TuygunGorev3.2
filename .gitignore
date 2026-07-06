@@ -1,0 +1,85 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build & Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Python Cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# =========================
+# Deep Learning Models
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+*.trt
+
+# =========================
+# Experiment Outputs
+# =========================
+outputs/
+runs/
+results/
+checkpoints/
+
+# =========================
+# Large Datasets & Videos
+# =========================
+datasets/
+data/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
